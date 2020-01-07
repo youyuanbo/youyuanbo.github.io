@@ -26,16 +26,5 @@ yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/d
 yum makecache fast   安装Docker</description>
     </item>
     
-    <item>
-      <title>第一个hugo博客</title>
-      <link>https://youyuanbo.github.io/post/blog/</link>
-      <pubDate>Tue, 07 Jan 2020 11:31:23 +0800</pubDate>
-      
-      <guid>https://youyuanbo.github.io/post/blog/</guid>
-      <description>第一个hugo博客 very good
-nice
-插入一张图片</description>
-    </item>
-    
   </channel>
 </rss>
