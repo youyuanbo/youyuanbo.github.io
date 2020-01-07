@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugos on My New Hugo Site</title>
+    <link>https://youyuanbo.github.io/hugo/</link>
+    <description>Recent content in Hugos on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 22:07:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://youyuanbo.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo操作</title>
+      <link>https://youyuanbo.github.io/hugo/hugo%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Tue, 07 Jan 2020 22:07:25 +0800</pubDate>
+      
+      <guid>https://youyuanbo.github.io/hugo/hugo%E6%93%8D%E4%BD%9C/</guid>
+      <description>  查看hugo版本
+hugo version   新建博客页面
+新建博客页面myblog
+hugo new site myblog   下载主题
+下载主题m10c
+git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c   新建博客
+在post目录下新建博客blog.md
+hugo new post/blog.md   本地启动
+hugo server -t m10c --buildDrafts   远程部署
+hugo --theme=m10c --baseUrl=&amp;#34;https://youyuanbo.github.io/&amp;#34; --buildDrafts   </description>
+    </item>
+    
+  </channel>
+</rss>

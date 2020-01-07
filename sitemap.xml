@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://youyuanbo.github.io/docker/</loc>
-    <lastmod>2020-01-07T13:14:19+08:00</lastmod>
+    <loc>https://youyuanbo.github.io/hugo/</loc>
+    <lastmod>2020-01-07T22:07:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youyuanbo.github.io/hugo/hugo%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2020-01-07T22:07:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://youyuanbo.github.io/</loc>
+    <lastmod>2020-01-07T22:07:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youyuanbo.github.io/docker/</loc>
     <lastmod>2020-01-07T13:14:19+08:00</lastmod>
   </url>
   
