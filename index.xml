@@ -17,7 +17,8 @@
       <pubDate>Wed, 08 Jan 2020 17:20:29 +0800</pubDate>
       
       <guid>https://youyuanbo.github.io/tools/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
-      <description>一、安装与配置   查看版本
+      <description>[TOC]
+一、安装与配置   查看版本
 git --version   查看帮助
 git --help   配置开发者用户名（全局）
 git config --global user.name &amp;#39;youyuanbo&amp;#39;   配置邮箱（全局）
