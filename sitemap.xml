@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://youyuanbo.github.io/tools/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2020-01-08T17:20:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youyuanbo.github.io/</loc>
+    <lastmod>2020-01-08T17:20:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youyuanbo.github.io/tools/</loc>
+    <lastmod>2020-01-08T17:20:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youyuanbo.github.io/tools/git/</loc>
+    <lastmod>2020-01-08T17:13:39+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://youyuanbo.github.io/hugo/</loc>
     <lastmod>2020-01-07T22:07:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://youyuanbo.github.io/hugo/hugo%E6%93%8D%E4%BD%9C/</loc>
-    <lastmod>2020-01-07T22:07:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://youyuanbo.github.io/</loc>
     <lastmod>2020-01-07T22:07:25+08:00</lastmod>
   </url>
   
